@@ -1,0 +1,8 @@
+<svg width="16.675mm" height="16.675mm" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1" viewBox="0 0 445.67 445.33" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+ <linearGradient id="a" x1="110.67" x2="334.32" y1="414.8" y2="30.19" gradientTransform="translate(0,1555.7)" gradientUnits="userSpaceOnUse"><stop stop-color="#D72430" offset="0"/><stop stop-color="#FDA259" offset="1"/></linearGradient></defs>
+<g transform="translate(.33427 -1556)"><path d="m30 1666.7c62-107 198-143 304-81 107 62 143 198 81 304-62 107-198 143-304 81-107-62-143-198-81-304z" fill="url(#a)"/><g transform="matrix(1.2194 .11236 -.11292 1.2255 -22.251 1478.4)" stroke="#fefefe" stroke-linejoin="round" stroke-width="23.041">
+   <g stroke="#fefefe" stroke-linejoin="round" stroke-width="23.041">
+    <polygon points="283 226 236 207 310 102 156 222 208 240 135 346" fill="#fefefe" stroke="#fefefe" stroke-linejoin="round" stroke-width="23.041"/>
+   </g>
+  </g></g></svg>
